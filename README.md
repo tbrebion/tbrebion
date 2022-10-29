@@ -3,4 +3,4 @@
 
 * #### Languages : C, C++, Bash
 
-- 📫 How to reach me **titouan.brebion@protonmail.com**
+* #### 📫 How to reach me **titouan.brebion@protonmail.com**
