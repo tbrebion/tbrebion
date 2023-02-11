@@ -18,7 +18,6 @@
 ### :fire: My Stats :
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tbrebion&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=tbrebion&show_icons=true&ayout=compact&count_private=true&theme=radical" alt="tbrebion" />
 
 <!--
