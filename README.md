@@ -3,7 +3,7 @@
 <p><em>Student @ <a href="https://42.fr">42 Paris</a></em></p>
 
 - 👨‍💻 Technology Enthusiast.
-- 📫 Feel free to contact me by [Email](mailto:titouan.brebion@protonmail.com) at titouan.brebion@protonmail.com or [LinkedIn](https://www.linkedin.com/in/titouan-brébion-359668240/).
+- 📫 Feel free to contact me by [Email](mailto:titouan.brebion@protonmail.com) at titouan.brebion@protonmail.com or [LinkedIn](https://www.linkedin.com/in/titouan-brébion/).
  
 
 ### :hammer_and_wrench: Languages and Tools :
