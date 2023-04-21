@@ -17,8 +17,7 @@
 
 ### :fire: My Stats :
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=tbrebion&show_icons=true&ayout=compact&count_private=true&theme=dark&hide_border=true" alt="tbrebion" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbrebion&show_icons=true&layout=compact&count_private=true&theme=dark&hide_border=true" alt="tbrebion" />
-
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=tbrebion&show_icons=true&ayout=compact&count_private=true&theme=dark&hide_border=true" alt="tbrebion" />
+ 
